@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=liko)](https://velog.io/@eungyeole)
 
 <!--
 **highlyko17/highlyko17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
