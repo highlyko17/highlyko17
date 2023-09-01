@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
