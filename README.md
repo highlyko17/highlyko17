@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave?height=400)
+![header](https://capsule-render.vercel.app/api?type=wave)
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
