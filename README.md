@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=black)
 
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=liko)](https://velog.io/@eungyeole)-->
 
 <!--
