@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=black)
 
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor="> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor="> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor="> 
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor="> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor="> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor="> 
 
 <!--
 **highlyko17/highlyko17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
