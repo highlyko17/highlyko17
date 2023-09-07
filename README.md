@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=black)
-### Hi there 👋
 
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=liko)](https://velog.io/@eungyeole)-->
