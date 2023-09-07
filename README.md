@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=black)
 
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=black">
-<!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=liko)](https://velog.io/@eungyeole)-->
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=black">
 
 <!--
 **highlyko17/highlyko17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
