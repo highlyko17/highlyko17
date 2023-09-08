@@ -1,7 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=black)
 
-<div>
-  <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor="> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor="> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor="> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<div id="experience" align="center">
+  <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=">
+</div>
+
+<div id="language" align="center">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor="> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor="> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
+
+<div id="web" align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 <!--
