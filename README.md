@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=333333"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=DDDDDD"/>
 
   <br/><br/><br/><br/>
 
@@ -36,6 +36,6 @@
   <br/>
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=333333&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=DDDDDD&section=footer"/>
 
 </div>
