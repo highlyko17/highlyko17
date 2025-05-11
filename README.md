@@ -26,6 +26,7 @@
     <a href="https://solved.ac/highly17">
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=highly17" style="width: 33%;">
     </a>
+    <img src="./blank.png" alt="blank" style="width: 5%;">
     <img src="https://raw.githubusercontent.com/highlyko17/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" style="width: 43%;">
 
   <br/>
