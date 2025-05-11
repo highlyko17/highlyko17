@@ -4,7 +4,7 @@
 
   <br/><br/><br/><br/>
 
-  #### 🥚 Skills
+  ### 🥚 Skills
   <div id="language">
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor="> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor="> 
@@ -19,7 +19,7 @@
 
   <br/><br/>
 
-  #### 🥚 Problem Solving
+  ### 🥚 Problem Solving
   <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
     <a href="https://solved.ac/highly17">
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=highly17" style="width: 33%;">
@@ -29,7 +29,7 @@
 
   <br/><br/>
   
-  #### 🥚 Experience
+  ### 🥚 Experience
   <div id="experience">
     <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=">
   </div>
