@@ -35,7 +35,6 @@
   <div id="experience">
     <p>
       2021-2022 | 42 Seoul<br>
-      2023 | 네이버 부스트 캠프
     </p>
   </div>
   <br/>
